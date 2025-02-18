@@ -7,7 +7,7 @@
 
 - 👨‍💻 Link to my profolio [https://jasonhsu14.vercel.app](https://jasonhsu14.vercel.app)
 
-- 📄 Learn more about my experiences [https://jasonhsu14.vercel.app/Jason-Hsu-Resume.pdf](https://jasonhsu14.vercel.app/Jason-Hsu-Resume.pdf)
+- 📄 Link to my resume [https://jasonhsu14.vercel.app/Jason-Hsu-Resume.pdf](https://jasonhsu14.vercel.app/Jason-Hsu-Resume.pdf)
 
 - 📫 How to reach me **jasonhsu042+gh@gmail.com**
 
