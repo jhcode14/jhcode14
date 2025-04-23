@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Hsu</h1>
-<h3 align="center">A Software Engineer & Part-time pottery maker 🍵</h3>
+<h3 align="center">A Software Engineer & Part-time ceramist 🍵</h3>
 
 - 🔭 I’m currently working on [Manga-Tracker](https://github.com/jhcode14/manga-tracker)
 
