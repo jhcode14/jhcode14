@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Hsu</h1>
 <h3 align="center">A Software Engineer & Part-time ceramist 🍵</h3>
 
-- 🔭 I’m currently working on [Manga-Tracker](https://github.com/jhcode14/manga-tracker)
+- 🔭 I’m currently working on [py-streaming-experiments](https://github.com/jhcode14/py-streaming-experiments)
 
 - 🌱 I’m currently learning **Designing Data Intensive Applications**
 
