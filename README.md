@@ -9,7 +9,7 @@
 
 - 📄 Link to my resume [https://jasonhsu14.vercel.app/Jason-Hsu-Resume.pdf](https://jasonhsu14.vercel.app/Jason-Hsu-Resume.pdf)
 
-- 📫 How to reach me **jasonhsu042+gh@gmail.com**
+- 📫 How to reach me www.linkedin.com/in/jasonhsu14
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhcode14&show_icons=true&locale=en&layout=compact" alt="jhcode14" /></p>
 
